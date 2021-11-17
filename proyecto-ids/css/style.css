@@ -1,0 +1,180 @@
+
+.simpleway{
+    left: 400px;
+  text-align: center;
+  position: relative;
+    font-size: 35px;
+    width:900px;
+}
+.nummas{
+font-size: 20px;
+text-align: center;
+position: relative;
+word-spacing: 400px;
+right: 100px;
+}
+.reason{
+font-size: 10px;
+text-align: center;
+width: 100px;
+left: 300px;
+position: relative;
+}
+.simpleways{
+    font-size: 11px;
+    text-align: center;
+    width: 180px;
+    left: 750px;
+    position: relative;
+   bottom: 35px;
+}
+.discount{
+    font-size: 10px;
+    text-align: center;
+    width: 115px;
+    left: 1250px;
+    position: relative;
+   bottom: 80px;
+}
+.fullycus{
+  
+    font-size: 21px;
+    width: 500px;
+    position: relative;
+    left: 600px;
+}
+
+
+.text{
+  left: 350px;
+  text-align: center;
+  position: relative;
+    font-size: 30px;
+    width: 1000px;
+}
+
+.button{
+text-decoration: none;
+border-radius: 3px;
+padding: 20px 15px;
+display:inline-block;
+text-shadow: 0 1px 0 rgba;
+box-shadow: -11.09px 18.13px 36.6483px rgba(242, 153, 74, 0.23);
+}
+
+.btn-naranja{
+    color: white;
+background-color: #F2994A;
+text-decoration: none;
+border-radius: 3px;
+padding: 15px 30px;
+display:inline-block;
+font-size: 15px;
+}
+.invest{
+    position: relative;
+    font-size: 20px;
+    width: 300px;
+    left: 400px;
+   
+}
+.weare{
+    position: relative;
+    font-size: 15px;
+    width: 400px;
+}
+.frame{
+    position: relative;
+   left: 260px;
+   bottom: 170px;
+}
+.rectangle{
+    position: relative;
+    left: 700px;
+   bottom: 300px;
+}
+
+.cuadrob{
+    position: relative;
+    background-color:bisque;
+    width: 260px ;
+    bottom: 25px;
+    border-radius: 5PX;  
+}
+.omah{
+    text-align: center;
+   
+}
+.merpati{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.dinero{
+    position: relative;
+    left: 30px;
+    font-size: 20px
+}
+.funding{
+    position: relative;
+    left: 30px;
+    font-size: 15px;
+    bottom: 30px;
+}
+.linea{
+    position: relative;
+    font-size: 10px;
+    width: 200px;
+    bottom: 20px;
+    left: 30px;
+}
+.porcentaje{
+    position: relative;
+    text-align: center;
+    word-spacing: 40px;
+    bottom: 20px;
+    font-size: 15px;
+}
+.apr{
+    font-size: 10px;
+    word-spacing: 60px;
+    text-align: left;
+    position: relative;
+    left: 35px;
+    bottom: 40px;
+}
+.cuadroaz{
+    position: relative;
+    background-color:#516EA9;
+    width: 160px  ;
+    left: 940px;
+    border-radius: 5PX; 
+    height: 80px;
+}
+.mth{
+    text-align: center;
+    color: #ffff;
+    padding: 1px;
+}
+.increase{
+    position: relative;
+    bottom: 35px;
+    text-align: center;
+    color: #ffff;
+}
+.flecha{
+    width: 60px;
+    background-color: #13C296;
+    border-radius: 5PX; 
+    height: 60px;
+ position: relative;
+ left: 670px;
+ bottom: 650px;
+}
+.path{
+    position: relative;
+    text-align: center;
+    top: 20px;
+
+}
+    
